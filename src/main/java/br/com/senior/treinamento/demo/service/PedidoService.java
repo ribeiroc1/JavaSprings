@@ -1,12 +1,10 @@
 package br.com.senior.treinamento.demo.service;
 
-import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
-import br.com.senior.treinamento.demo.entidades.ClienteEntity;
 import br.com.senior.treinamento.demo.entidades.PedidoEntity;
 import br.com.senior.treinamento.demo.repository.PedidoRepository;
 

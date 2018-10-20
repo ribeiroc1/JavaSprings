@@ -5,10 +5,8 @@ import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
-import br.com.senior.treinamento.demo.entidades.PedidoEntity;
 import br.com.senior.treinamento.demo.entidades.PedidoItemEntity;
 import br.com.senior.treinamento.demo.repository.PedidoItemRepository;
-import br.com.senior.treinamento.demo.repository.PedidoRepository;
 
 @Service
 public class PedidoItemService {

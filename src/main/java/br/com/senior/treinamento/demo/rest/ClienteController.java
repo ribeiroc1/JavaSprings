@@ -1,6 +1,5 @@
 package br.com.senior.treinamento.demo.rest;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 

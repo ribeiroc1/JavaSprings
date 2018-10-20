@@ -1,10 +1,7 @@
 package br.com.senior.treinamento.demo.rest;
 
-import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
-
-import javax.websocket.server.PathParam;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
